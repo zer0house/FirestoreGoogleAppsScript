@@ -1,3 +1,5 @@
+[(같은 라이브러리 사용 유튭 영상)](https://www.youtube.com/watch?v=aaoKbHILhdg)
+
 # Firestore for Google Apps Scripts
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/grahamearley/FirestoreGoogleAppsScript)](../../../releases/latest)
